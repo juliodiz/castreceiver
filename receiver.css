@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(background.png);
+  background: center no-repeat url(https://webcast.webspot.com.br/cast/img/background.png);
 }
 
 .logo {
-  background-image: url(logo.png);
+  background-image: url(https://webcast.webspot.com.br/cast/img/logo.png);
 }
 
 .progressBar {
@@ -11,11 +11,11 @@
 }
 
 .splash {
-  background-image: url(logo.png);
+  background-image: url(https://webcast.webspot.com.br/cast/img/logo.png);
 }
 
 .watermark {
-  background-image: url(logo.png);
+  background-image: url(https://webcast.webspot.com.br/cast/img/logo.png);
   background-size: 57px 57px;
 }
 
